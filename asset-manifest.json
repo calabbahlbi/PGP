@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PGP/static/css/main.87359fab.css",
+    "main.js": "/PGP/static/js/main.dedbe8a3.js",
+    "static/js/453.d4723046.chunk.js": "/PGP/static/js/453.d4723046.chunk.js",
+    "static/media/man.png": "/PGP/static/media/man.c3e5b93d71618cc6b615.png",
+    "static/media/banner.png": "/PGP/static/media/banner.c91e4c8f29627ff7b9df.png",
+    "static/media/goal.PNG": "/PGP/static/media/goal.a130077a84e1c4c904b4.PNG",
+    "static/media/calc.PNG": "/PGP/static/media/calc.e5c1c01b743beee63af6.PNG",
+    "static/media/iphone.png": "/PGP/static/media/iphone.d3f4ec0d6c4aa58dda8d.png",
+    "static/media/iphone1.png": "/PGP/static/media/iphone1.d3f4ec0d6c4aa58dda8d.png",
+    "static/media/grocery.PNG": "/PGP/static/media/grocery.38986c60f6a51da6212a.PNG",
+    "static/media/data.PNG": "/PGP/static/media/data.28d6622c1bb7ccdeac27.PNG",
+    "static/media/battery.PNG": "/PGP/static/media/battery.40c07d1014daaed3a39c.PNG",
+    "index.html": "/PGP/index.html",
+    "static/media/filler.PNG": "/PGP/static/media/filler.52acbecbbcacfae41e2e.PNG",
+    "main.87359fab.css.map": "/PGP/static/css/main.87359fab.css.map",
+    "main.dedbe8a3.js.map": "/PGP/static/js/main.dedbe8a3.js.map",
+    "453.d4723046.chunk.js.map": "/PGP/static/js/453.d4723046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87359fab.css",
+    "static/js/main.dedbe8a3.js"
+  ]
+}
